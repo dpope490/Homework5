@@ -1,0 +1,7 @@
+C:\Users\dt213394\Documents\Visual Studio 2017\Projects\Homework5Part2\Homework5Part2\bin\Debug\Homework5Part2.exe.config
+C:\Users\dt213394\Documents\Visual Studio 2017\Projects\Homework5Part2\Homework5Part2\bin\Debug\Homework5Part2.exe
+C:\Users\dt213394\Documents\Visual Studio 2017\Projects\Homework5Part2\Homework5Part2\bin\Debug\Homework5Part2.pdb
+C:\Users\dt213394\Documents\Visual Studio 2017\Projects\Homework5Part2\Homework5Part2\obj\Debug\Homework5Part2.csprojResolveAssemblyReference.cache
+C:\Users\dt213394\Documents\Visual Studio 2017\Projects\Homework5Part2\Homework5Part2\obj\Debug\Homework5Part2.csproj.CoreCompileInputs.cache
+C:\Users\dt213394\Documents\Visual Studio 2017\Projects\Homework5Part2\Homework5Part2\obj\Debug\Homework5Part2.exe
+C:\Users\dt213394\Documents\Visual Studio 2017\Projects\Homework5Part2\Homework5Part2\obj\Debug\Homework5Part2.pdb
